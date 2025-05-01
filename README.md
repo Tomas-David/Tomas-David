@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Vítejte na mém profilu
 
-<!--
-**Tomas-David/Tomas-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student 3. ročníku střední školy se zaměřením na vývoj webových a desktopových aplikací
+💻 Nadšenec do vývoje v .NET ekosystému a moderních frontendových technologií.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technologie & nástroje
+
+- **Jazyky**: C#, TypeScript, JavaScript, HTML, CSS  
+- **Frameworky**: React, Blazor, Razor Pages, MAUI
+- **Herní enginy** Unity 
+- **Zaměření**: Full-stack vývoj, multiplatformní aplikace, UI/UX
+
+---
+
+## 🚀 Co mě baví
+
+- Vývoj interaktivních aplikací v **Blazoru** – věřím, že je to budoucnost vývoje webu  
+- Propojování frontendu a backendu v jednom prostředí  
+- Neustálé zlepšování a učení se novým technologiím  
+
+---
+
+## 📊 GitHub statistiky
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasdavid&show_icons=true&theme=github_dark&hide=issues&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasdavid&layout=compact&langs_count=6&theme=github_dark" width="48%" />
+</div>
+
+---
+
+## 📫 Kontakt & odkazy
+
+- 📸 [Instagram](https://www.instagram.com/tomas.webp/)  
