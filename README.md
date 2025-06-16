@@ -8,7 +8,7 @@
 ## 🧰 Technologie & nástroje
 
 - **Jazyky**: C#, TypeScript, JavaScript, HTML, CSS  
-- **Frameworky**: React, Blazor, Razor Pages, MAUI
+- **Frameworky**: React, NextJS, Blazor, Razor Pages, MAUI
 - **Herní enginy** Unity 
 - **Zaměření**: Full-stack vývoj, multiplatformní aplikace, UI/UX
 
