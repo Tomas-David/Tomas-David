@@ -7,8 +7,8 @@
 
 ## 🧰 Technologie & nástroje
 
-- **Jazyky**: C#, TypeScript, JavaScript, HTML, CSS  
-- **Frameworky**: React, NextJS, Blazor, Razor Pages, MAUI
+- **Jazyky**: C#, TypeScript, JavaScript, HTML, CSS, Dart  
+- **Frameworky**: React, NextJS, Blazor, Razor Pages, MAUI, Flutter
 - **Herní enginy** Unity 
 - **Zaměření**: Full-stack vývoj, multiplatformní aplikace, UI/UX
 
@@ -16,7 +16,6 @@
 
 ## 🚀 Co mě baví
 
-- Vývoj interaktivních aplikací v **Blazoru** – věřím, že je to budoucnost vývoje webu  
 - Propojování frontendu a backendu v jednom prostředí  
 - Neustálé zlepšování a učení se novým technologiím  
 
