@@ -1,6 +1,6 @@
 # 👋 Vítejte na mém profilu
 
-🎓 Student 3. ročníku střední školy se zaměřením na vývoj webových a desktopových aplikací <br/>
+🎓 Student 4. ročníku střední školy se zaměřením na vývoj webových a desktopových aplikací <br/>
 💻 Nadšenec do vývoje v .NET ekosystému a moderních frontendových technologií.
 
 ---
@@ -16,8 +16,9 @@
 
 ## 🚀 Co mě baví
 
-- Propojování frontendu a backendu v jednom prostředí  
-- Neustálé zlepšování a učení se novým technologiím  
+- Učení se novým trendům a technologiím
+- Práce v .NET ekosystémů
+- Objevonání nových způsobu řešení problémů
 
 ---
 
