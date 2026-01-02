@@ -1,7 +1,7 @@
 # 👋 Vítejte na mém profilu
 
 🎓 Student 4. ročníku střední školy se zaměřením na vývoj webových a desktopových aplikací <br/>
-💻 Nadšenec do vývoje v .NET ekosystému a moderních frontendových technologií.
+💻 Nadšenec do vývoje v .NET ekosystému a moderních frontendových a backendových technologií.
 
 ---
 
