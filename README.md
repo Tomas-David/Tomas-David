@@ -1,6 +1,6 @@
 # 👋 Vítejte na mém profilu
 
-🎓 Student 4. ročníku střední školy se zaměřením na vývoj webových a desktopových aplikací <br/>
+🎓 Student 1. ročníku na Technické univerzitě v liberci se zaměřením na informatiku <br/>
 💻 Nadšenec do vývoje v .NET ekosystému a moderních frontendových a backendových technologií.
 
 ---
