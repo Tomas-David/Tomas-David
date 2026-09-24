@@ -22,21 +22,6 @@
 
 ---
 
-## 📊 GitHub statistiky
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Tomas-David&show_icons=true&theme=github_dark&rank_icon=github"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-David&layout=compact&langs_count=6&theme=github_dark"
-    width="48%"
-  />
-</div>
-
----
-
 ## 📫 Kontakt & odkazy
 
 - 📸 [Instagram](https://www.instagram.com/tomas.webp/)  
