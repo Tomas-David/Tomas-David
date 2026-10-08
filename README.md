@@ -5,7 +5,9 @@ Student informatiky, TUL Liberec &middot; Full-stack vývojář &middot; Multipl
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tomáš-david-50a821368/"><img src="https://img.shields.io/badge/LinkedIn-Tomáš_David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=Tomas-David&style=for-the-badge&color=555555&label=Tolik_lidí_navštívilo_můj_GitHub" alt="Počet návštěv profilu">
+  <a href="https://www.instagram.com/tomas.webp/"><img src="https://img.shields.io/badge/Instagram-tomas.webp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ## O mně
@@ -60,6 +62,5 @@ Blazor &middot; Razor Pages &middot; .NET MAUI
 
 ## Kontakt
 
-<a href="https://www.instagram.com/tomas.webp/"><img src="https://img.shields.io/badge/Instagram-tomas.webp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/tomáš-david-50a821368/"><img src="https://img.shields.io/badge/LinkedIn-Tomáš_David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
