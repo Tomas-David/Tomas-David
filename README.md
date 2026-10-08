@@ -16,37 +16,31 @@ Student informatiky, TUL Liberec &middot; Full-stack vývojář &middot; Multipl
 - Zaměření na ekosystém .NET a moderní frontendové a backendové technologie
 - Full-stack vývoj webových aplikací a multiplatformních aplikací (MAUI, Flutter)
 
-## Technologie
+## Technologie a zaměření
 
-**Jazyky**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,dart&perline=6" alt="Jazyky">
-</p>
-
-**Frameworky a platformy**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,flutter,unity&perline=5" alt="Frameworky">
-</p>
-
-Blazor &middot; Razor Pages &middot; .NET MAUI
-
-**Nástroje**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&perline=5" alt="Nástroje">
-</p>
-
-## Zaměření
-
-| Oblast | Technologie |
-| --- | --- |
-| Backend | C#, .NET, Razor Pages, Blazor |
-| Frontend | TypeScript, React, Next.js, HTML, CSS |
-| Multiplatformní aplikace | .NET MAUI, Flutter (Dart) |
-| Herní vývoj | Unity |
-| Ostatní | UI/UX |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Jazyky</b><br>
+      <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,dart&perline=6" alt="Jazyky"><br><br>
+      <b>Frameworky a platformy</b><br>
+      <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,flutter,unity&perline=5" alt="Frameworky"><br>
+      Blazor &middot; Razor Pages &middot; .NET MAUI<br><br>
+      <b>Nástroje</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&perline=5" alt="Nástroje">
+    </td>
+    <td valign="middle" width="50%">
+      <table>
+        <tr><th align="left">Oblast</th><th align="left">Technologie</th></tr>
+        <tr><td>Backend</td><td>C#, .NET, Razor Pages, Blazor</td></tr>
+        <tr><td>Frontend</td><td>TypeScript, React, Next.js, HTML, CSS</td></tr>
+        <tr><td>Multiplatformní aplikace</td><td>.NET MAUI, Flutter (Dart)</td></tr>
+        <tr><td>Herní vývoj</td><td>Unity</td></tr>
+        <tr><td>Ostatní</td><td>UI/UX</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## Statistiky
 
