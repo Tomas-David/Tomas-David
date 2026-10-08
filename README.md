@@ -5,8 +5,7 @@ Student informatiky, TUL Liberec &middot; Full-stack vývojář &middot; Multipl
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/tomas.webp/"><img src="https://img.shields.io/badge/Instagram-tomas.webp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <img src="https://komarev.com/ghpvc/?username=Tomas-David&style=for-the-badge&color=555555&label=Zobrazení" alt="Zobrazení profilu">
+  <img src="https://komarev.com/ghpvc/?username=Tomas-David&style=for-the-badge&color=555555&label=Tolik_lidí_navštívilo_můj_GitHub" alt="Počet návštěv profilu">
 </p>
 
 ## O mně
@@ -58,10 +57,9 @@ Blazor &middot; Razor Pages &middot; .NET MAUI
   <img src="https://streak-stats.demolab.com?user=Tomas-David&theme=github-dark&hide_border=true" alt="Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomas-David&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff" alt="Graf aktivity">
-</p>
 
 ## Kontakt
 
-[Instagram](https://www.instagram.com/tomas.webp/)
+<a href="https://www.instagram.com/tomas.webp/"><img src="https://img.shields.io/badge/Instagram-tomas.webp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/tomáš-david-50a821368/"><img src="https://img.shields.io/badge/LinkedIn-Tomáš_David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
