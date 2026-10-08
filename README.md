@@ -58,9 +58,3 @@ Blazor &middot; Razor Pages &middot; .NET MAUI
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tomas-David&theme=github-dark&hide_border=true" alt="Streak">
 </p>
-
-
-## Kontakt
-
-
-
